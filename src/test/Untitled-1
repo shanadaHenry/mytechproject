@@ -1,0 +1,25 @@
+com.facebook.react.bridge.ReadableNativeMap cannot be cast to java.lang.String
+getString
+    ReadableNativeMap.java:168
+showAlert
+    DialogModule.java:232
+invoke
+    Method.java
+invoke
+    JavaMethodWrapper.java:372
+invoke
+    JavaModuleWrapper.java:160
+run
+    NativeRunnable.java
+handleCallback
+    Handler.java:739
+dispatchMessage
+    Handler.java:95
+dispatchMessage
+    MessageQueueThreadHandler.java:29
+loop
+    Looper.java:148
+run
+    MessageQueueThreadImpl.java:192
+run
+    Thread.java:818
